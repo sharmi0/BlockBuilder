@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <model name="box">
+    <link name="link">
+      <visual name="visual">
+
+        <geometry>
+          <box>
+            <size>1</size>
+          </box>
+        </geometry>
+
+      </visual>
+    </link>
+  </model>
+</sdf>
